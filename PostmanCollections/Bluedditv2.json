@@ -1,0 +1,1173 @@
+{
+	"info": {
+		"_postman_id": "302cfaf7-b624-4ab0-aa73-a194a62ee966",
+		"name": "Blueddit",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Logs",
+			"item": [
+				{
+					"name": "GET",
+					"item": [
+						{
+							"name": "Get Logs by  Username",
+							"protocolProfileBehavior": {
+								"disableBodyPruning": true
+							},
+							"request": {
+								"method": "GET",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9002/v1/api/logs/users?Username=Jorge",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9002",
+									"path": [
+										"v1",
+										"api",
+										"logs",
+										"users"
+									],
+									"query": [
+										{
+											"key": "Username",
+											"value": "Jorge"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Get Logs other Username with params page 2 and pageSize 3",
+							"protocolProfileBehavior": {
+								"disableBodyPruning": true
+							},
+							"request": {
+								"method": "GET",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9002/v1/api/logs/users?Username=Jorge&page=2&pageSize=3",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9002",
+									"path": [
+										"v1",
+										"api",
+										"logs",
+										"users"
+									],
+									"query": [
+										{
+											"key": "Username",
+											"value": "Jorge"
+										},
+										{
+											"key": "page",
+											"value": "2"
+										},
+										{
+											"key": "pageSize",
+											"value": "3"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Get Logs filter by Username with params page 1 and pageSize 5",
+							"protocolProfileBehavior": {
+								"disableBodyPruning": true
+							},
+							"request": {
+								"method": "GET",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9002/v1/api/logs/users?Username=yuli&page=1&pageSize=5",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9002",
+									"path": [
+										"v1",
+										"api",
+										"logs",
+										"users"
+									],
+									"query": [
+										{
+											"key": "Username",
+											"value": "yuli"
+										},
+										{
+											"key": "page",
+											"value": "1"
+										},
+										{
+											"key": "pageSize",
+											"value": "5"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Get Logueo logs",
+							"protocolProfileBehavior": {
+								"disableBodyPruning": true
+							},
+							"request": {
+								"method": "GET",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9002/v1/api/logs/types?ObjectType=Logueo",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9002",
+									"path": [
+										"v1",
+										"api",
+										"logs",
+										"types"
+									],
+									"query": [
+										{
+											"key": "ObjectType",
+											"value": "Logueo"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Get Logs filter with Dates",
+							"protocolProfileBehavior": {
+								"disableBodyPruning": true
+							},
+							"request": {
+								"method": "GET",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9002/v1/api/logs/dates?StartDate=2021-06-04&EndDate=2021-07-05",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9002",
+									"path": [
+										"v1",
+										"api",
+										"logs",
+										"dates"
+									],
+									"query": [
+										{
+											"key": "StartDate",
+											"value": "2021-06-04"
+										},
+										{
+											"key": "EndDate",
+											"value": "2021-07-05"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Get Wanrings Logs",
+							"protocolProfileBehavior": {
+								"disableBodyPruning": true
+							},
+							"request": {
+								"method": "GET",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9002/v1/api/logs/entityTypes?LogType=Warning",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9002",
+									"path": [
+										"v1",
+										"api",
+										"logs",
+										"entityTypes"
+									],
+									"query": [
+										{
+											"key": "LogType",
+											"value": "Warning"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Get Info  Logs",
+							"protocolProfileBehavior": {
+								"disableBodyPruning": true
+							},
+							"request": {
+								"method": "GET",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9002/v1/api/logs/entityTypes?LogType=Info",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9002",
+									"path": [
+										"v1",
+										"api",
+										"logs",
+										"entityTypes"
+									],
+									"query": [
+										{
+											"key": "LogType",
+											"value": "Info"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Get all logs",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "https://localhost:9002/v1/api/logs",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9002",
+									"path": [
+										"v1",
+										"api",
+										"logs"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Get all logs with pagination params page 1 and pageSize 5",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "https://localhost:9002/v1/api/logs?page=1&pageSize=5",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9002",
+									"path": [
+										"v1",
+										"api",
+										"logs"
+									],
+									"query": [
+										{
+											"key": "page",
+											"value": "1"
+										},
+										{
+											"key": "pageSize",
+											"value": "5"
+										}
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "Get all logs with pagination params page 2 and pageSize 3",
+							"request": {
+								"method": "GET",
+								"header": [],
+								"url": {
+									"raw": "https://localhost:9002/v1/api/logs?page=2&pageSize=3",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9002",
+									"path": [
+										"v1",
+										"api",
+										"logs"
+									],
+									"query": [
+										{
+											"key": "page",
+											"value": "2"
+										},
+										{
+											"key": "pageSize",
+											"value": "3"
+										}
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				}
+			]
+		},
+		{
+			"name": "ServerAdministrativo",
+			"item": [
+				{
+					"name": "Themes",
+					"item": [
+						{
+							"name": "PostTheme ok",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"Name\":\"Copa America\",\r\n    \"Description\":\"Copa America 2021\",\r\n    \"Username\":\"Jorge\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/themes",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"themes"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "PostTheme already exist theme",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"Name\":\"Copa America\",\r\n    \"Description\":\"Copa America 2021\",\r\n    \"Username\":\"Yuli\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/themes",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"themes"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "PostTheme ok (other 1)",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"Name\":\"Euro Copa \",\r\n    \"Description\":\"EURO2020.COM\",\r\n    \"Username\":\"Yuli\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/themes",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"themes"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "PostTheme ok (other 2)",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"Name\":\"Contaminación Ambiental\",\r\n    \"Description\":\"Calentamiento Global \",\r\n    \"Username\":\"Jimena\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/themes",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"themes"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "PostTheme ok (other 3)",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"Name\":\"TICs\",\r\n    \"Description\":\"TICs en Uruguay\",\r\n    \"Username\":\"Juan Carlos\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/themes",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"themes"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "PostTheme ok (other 3) Copy",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"Name\":\"Alimentos\",\r\n    \"Description\":\"lácteos\",\r\n    \"Username\":\"yuli\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/themes",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"themes"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "PutTheme ok",
+							"request": {
+								"method": "PUT",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"OldName\":\"Copa America\",\r\n    \"NewName\":\"Copa America 2021\",\r\n    \"NewDescription\":\"fecha4 Copa America\",\r\n    \"Username\":\"Yuli\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/themes",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"themes"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "PutTheme not exist theme",
+							"request": {
+								"method": "PUT",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"OldName\":\"Policias en acción\",\r\n    \"NewName\":\"Serie colombiana\",\r\n    \"NewDescription\":\"policias colomnianos en acción\",\r\n    \"Username\":\"Jorge\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/themes",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"themes"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "DeleteTheme",
+							"request": {
+								"method": "DELETE",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"ThemeName\":\"Contaminación Ambiental\",\r\n    \"Username\":\"Jimena \"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/themes",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"themes"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "DeleteTheme not exist theme",
+							"request": {
+								"method": "DELETE",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"ThemeName\":\"TemaNuevo\",\r\n    \"Username\":\"Yuli\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/themes",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"themes"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				},
+				{
+					"name": "Posts",
+					"item": [
+						{
+							"name": "PostPost not exit theme",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"Name\":\"Post\",\r\n    \"ThemeName\":\"Tema\",\r\n    \"Username\":\"Jorge\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/posts",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"posts"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "PostPost ok",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"Name\":\"Euro Copa \",\r\n    \"ThemeName\":\"fecha 1\",\r\n    \"Username\":\"Yuli\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/posts",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"posts"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "PostPost ok (other)",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"Name\":\"Euro Copa \",\r\n    \"ThemeName\":\"fecha 1\",\r\n    \"Username\":\"Yuli\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/posts",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"posts"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "PostPost ok (other 1)",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"Name\":\"2021\",\r\n    \"ThemeName\":\"TICs\",\r\n    \"Username\":\"Jorge\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/posts",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"posts"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "PostPost already exit post",
+							"request": {
+								"method": "POST",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"Name\":\"fecha 2\",\r\n    \"ThemeName\":\"Euro Copa \",\r\n    \"Username\":\"Juan Perez\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/posts",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"posts"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "PutPost  not exit post",
+							"request": {
+								"method": "PUT",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"OldName\":\"Veganos\",\r\n    \"NewName\":\"PostNuevo\",\r\n    \"Username\":\"Jorge\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/posts",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"posts"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "PutPost  oK",
+							"request": {
+								"method": "PUT",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"OldName\":\"fecha 1\",\r\n    \"NewName\":\"fecha Copa America\",\r\n    \"Username\":\"Yuli\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/posts",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"posts"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "PutAssociatePostToTheme not exist post",
+							"request": {
+								"method": "PUT",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"PostName\":\"fecha 3\",\r\n    \"ThemeName\":\"Euro Copa \",\r\n    \"Username\":\"Jorge\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/posts/associations",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"posts",
+										"associations"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "PutAssociatePostToTheme not exist theme",
+							"request": {
+								"method": "PUT",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"PostName\":\"fecha 4\",\r\n    \"ThemeName\":\"Euro\",\r\n    \"Username\":\"Yuli\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/posts/associations",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"posts",
+										"associations"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "PutAssociatePostToTheme Ok",
+							"request": {
+								"method": "PUT",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"PostName\":\"2021\",\r\n\r\n    \"ThemeName\": \"Euro Copa \",\r\n\r\n    \"Username\": \"Jimena\"\r\n}\r\n\r\n",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/posts/associations",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"posts",
+										"associations"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "PutAssociatePostToTheme association already exists",
+							"request": {
+								"method": "PUT",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"PostName\":\"2021\",\r\n\r\n    \"ThemeName\": \"Euro Copa \",\r\n\r\n    \"Username\": \"Juan Carlos\"\r\n}\r\n\r\n",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/posts/associations",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"posts",
+										"associations"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "PutDissasociatePostToTheme ok",
+							"request": {
+								"method": "PUT",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"PostName\":\"2021\",\r\n\r\n    \"ThemeName\": \"Euro Copa \",\r\n\r\n    \"Username\": \"Jorge\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/posts/dissasociations",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"posts",
+										"dissasociations"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "PutDissasociatePostToTheme not exist association",
+							"request": {
+								"method": "PUT",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"PostName\":\"2021\",\r\n\r\n    \"ThemeName\": \"Euro\",\r\n\r\n    \"Username\": \"Yuli\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/posts/dissasociations",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"posts",
+										"dissasociations"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "DeletePost not exit post",
+							"request": {
+								"method": "DELETE",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"PostName\":\"fecha 15\",\r\n    \"Username\":\"Yuli\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/posts",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"posts"
+									]
+								}
+							},
+							"response": []
+						},
+						{
+							"name": "DeletePost ok",
+							"request": {
+								"method": "DELETE",
+								"header": [],
+								"body": {
+									"mode": "raw",
+									"raw": "{\r\n    \"PostName\":\"fecha 2\",\r\n    \"Username\":\"Jorge\"\r\n}",
+									"options": {
+										"raw": {
+											"language": "json"
+										}
+									}
+								},
+								"url": {
+									"raw": "https://localhost:9001/v1/api/posts",
+									"protocol": "https",
+									"host": [
+										"localhost"
+									],
+									"port": "9001",
+									"path": [
+										"v1",
+										"api",
+										"posts"
+									]
+								}
+							},
+							"response": []
+						}
+					]
+				}
+			]
+		}
+	]
+}

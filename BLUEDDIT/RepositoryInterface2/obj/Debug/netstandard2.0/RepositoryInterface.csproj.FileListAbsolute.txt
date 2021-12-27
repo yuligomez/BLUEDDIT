@@ -1,0 +1,9 @@
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obligatorio\Kinosian-Gomez\BLUEDDIT\RepositoryInterface\obj\Debug\netstandard2.0\RepositoryInterface.csprojAssemblyReference.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obligatorio\Kinosian-Gomez\BLUEDDIT\RepositoryInterface\obj\Debug\netstandard2.0\RepositoryInterface.AssemblyInfoInputs.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obligatorio\Kinosian-Gomez\BLUEDDIT\RepositoryInterface\obj\Debug\netstandard2.0\RepositoryInterface.AssemblyInfo.cs
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obligatorio\Kinosian-Gomez\BLUEDDIT\RepositoryInterface\obj\Debug\netstandard2.0\RepositoryInterface.csproj.CoreCompileInputs.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obligatorio\Kinosian-Gomez\BLUEDDIT\RepositoryInterface\bin\Debug\netstandard2.0\RepositoryInterface.deps.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obligatorio\Kinosian-Gomez\BLUEDDIT\RepositoryInterface\bin\Debug\netstandard2.0\RepositoryInterface.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obligatorio\Kinosian-Gomez\BLUEDDIT\RepositoryInterface\bin\Debug\netstandard2.0\RepositoryInterface.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obligatorio\Kinosian-Gomez\BLUEDDIT\RepositoryInterface\obj\Debug\netstandard2.0\RepositoryInterface.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obligatorio\Kinosian-Gomez\BLUEDDIT\RepositoryInterface\obj\Debug\netstandard2.0\RepositoryInterface.pdb

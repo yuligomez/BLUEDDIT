@@ -1,0 +1,77 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ServerLogLogic/1.0.0": {
+        "dependencies": {
+          "ServerLogLogicInterface": "1.0.0",
+          "ServerLogRepository": "1.0.0",
+          "ServerLogRepositoryInterface": "1.0.0"
+        },
+        "runtime": {
+          "ServerLogLogic.dll": {}
+        }
+      },
+      "Domain/1.0.0": {
+        "runtime": {
+          "Domain.dll": {}
+        }
+      },
+      "ServerLogLogicInterface/1.0.0": {
+        "dependencies": {
+          "Domain": "1.0.0"
+        },
+        "runtime": {
+          "ServerLogLogicInterface.dll": {}
+        }
+      },
+      "ServerLogRepository/1.0.0": {
+        "dependencies": {
+          "ServerLogRepositoryInterface": "1.0.0"
+        },
+        "runtime": {
+          "ServerLogRepository.dll": {}
+        }
+      },
+      "ServerLogRepositoryInterface/1.0.0": {
+        "dependencies": {
+          "Domain": "1.0.0"
+        },
+        "runtime": {
+          "ServerLogRepositoryInterface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServerLogLogic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServerLogLogicInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServerLogRepository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ServerLogRepositoryInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,630 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Models\\Models.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Client\\Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Client\\Client.csproj",
+        "projectName": "Client",
+        "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Client\\Client.csproj",
+        "packagesPath": "C:\\Users\\Jorma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jorma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ProtocolComunication\\ProtocolComunication.csproj": {
+                "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ProtocolComunication\\ProtocolComunication.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Domain\\Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\Jorma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jorma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Models\\Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Models\\Models.csproj",
+        "projectName": "Models",
+        "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Models\\Models.csproj",
+        "packagesPath": "C:\\Users\\Jorma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jorma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Server_GPRC_MQ\\Server_GPRC_MQ.csproj": {
+                "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Server_GPRC_MQ\\Server_GPRC_MQ.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ProtocolComunication\\ProtocolComunication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ProtocolComunication\\ProtocolComunication.csproj",
+        "projectName": "ProtocolComunication",
+        "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ProtocolComunication\\ProtocolComunication.csproj",
+        "packagesPath": "C:\\Users\\Jorma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ProtocolComunication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jorma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ServerLogicInterface\\ServerLogicInterface.csproj": {
+                "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ServerLogicInterface\\ServerLogicInterface.csproj"
+              },
+              "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ServerLogic\\ServerLogic.csproj": {
+                "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ServerLogic\\ServerLogic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\RepositoryInterface\\ServerRepositoryInterface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\RepositoryInterface\\ServerRepositoryInterface.csproj",
+        "projectName": "ServerRepositoryInterface",
+        "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\RepositoryInterface\\ServerRepositoryInterface.csproj",
+        "packagesPath": "C:\\Users\\Jorma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\RepositoryInterface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jorma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Repository\\ServerRepository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Repository\\ServerRepository.csproj",
+        "projectName": "ServerRepository",
+        "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Repository\\ServerRepository.csproj",
+        "packagesPath": "C:\\Users\\Jorma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jorma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\RepositoryInterface\\ServerRepositoryInterface.csproj": {
+                "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\RepositoryInterface\\ServerRepositoryInterface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ServerLogicInterface\\ServerLogicInterface.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ServerLogicInterface\\ServerLogicInterface.csproj",
+        "projectName": "ServerLogicInterface",
+        "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ServerLogicInterface\\ServerLogicInterface.csproj",
+        "packagesPath": "C:\\Users\\Jorma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ServerLogicInterface\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jorma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Domain\\Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ServerLogic\\ServerLogic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ServerLogic\\ServerLogic.csproj",
+        "projectName": "ServerLogic",
+        "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ServerLogic\\ServerLogic.csproj",
+        "packagesPath": "C:\\Users\\Jorma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ServerLogic\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jorma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\RepositoryInterface\\ServerRepositoryInterface.csproj": {
+                "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\RepositoryInterface\\ServerRepositoryInterface.csproj"
+              },
+              "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Repository\\ServerRepository.csproj": {
+                "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Repository\\ServerRepository.csproj"
+              },
+              "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ServerLogicInterface\\ServerLogicInterface.csproj": {
+                "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ServerLogicInterface\\ServerLogicInterface.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Server_GPRC_MQ\\Server_GPRC_MQ.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Server_GPRC_MQ\\Server_GPRC_MQ.csproj",
+        "projectName": "Server_GPRC_MQ",
+        "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Server_GPRC_MQ\\Server_GPRC_MQ.csproj",
+        "packagesPath": "C:\\Users\\Jorma\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Server_GPRC_MQ\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jorma\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Client\\Client.csproj": {
+                "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Client\\Client.csproj"
+              },
+              "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\Domain\\Domain.csproj"
+              },
+              "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ProtocolComunication\\ProtocolComunication.csproj": {
+                "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ProtocolComunication\\ProtocolComunication.csproj"
+              },
+              "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ServerLogicInterface\\ServerLogicInterface.csproj": {
+                "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ServerLogicInterface\\ServerLogicInterface.csproj"
+              },
+              "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ServerLogic\\ServerLogic.csproj": {
+                "projectPath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\ObligatorioFinal\\Kinosian-Gomez\\BLUEDDIT\\ServerLogic\\ServerLogic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Google.Protobuf": {
+              "target": "Package",
+              "version": "[3.17.2, )"
+            },
+            "Grpc.AspNetCore": {
+              "target": "Package",
+              "version": "[2.27.0, )"
+            },
+            "Grpc.Net.Client": {
+              "target": "Package",
+              "version": "[2.37.0, )"
+            },
+            "Grpc.Net.Common": {
+              "target": "Package",
+              "version": "[2.37.0, )"
+            },
+            "Grpc.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.38.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[6.2.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.409\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

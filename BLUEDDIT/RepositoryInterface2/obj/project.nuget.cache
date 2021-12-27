@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "TGWz8UJsR3zK+/yJcuqdpUOhYNLMlJcP2J3g8v77xJ63vqW6bEAriDcfJUm+UMcEyU0uTdXlROYY4x8grn9Dvg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\Obligatorio\\Kinosian-Gomez\\BLUEDDIT\\RepositoryInterface\\RepositoryInterface2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1201",
+      "level": "Error",
+      "message": "El proyecto Domain no es compatible con netstandard3.1 (.NETStandard,Version=v3.1). El proyecto Domain admite: netcoreapp3.1 (.NETCoreApp,Version=v3.1)",
+      "libraryId": "Domain",
+      "targetGraphs": [
+        ".NETStandard,Version=v3.1"
+      ]
+    }
+  ]
+}

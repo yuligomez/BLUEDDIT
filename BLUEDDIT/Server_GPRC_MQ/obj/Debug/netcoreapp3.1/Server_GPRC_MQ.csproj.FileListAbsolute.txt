@@ -1,0 +1,228 @@
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/Server_GPRC_MQ.csprojAssemblyReference.cache
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/Server_GPRC_MQ.AssemblyInfoInputs.cache
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/Server_GPRC_MQ.AssemblyInfo.cs
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/Server_GPRC_MQ.csproj.CoreCompileInputs.cache
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/Server_GPRC_MQ.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerAdministrativo.exe
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/appsettings.Development.json
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/appsettings.json
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Server_GPRC_MQ.exe
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Server_GPRC_MQ.deps.json
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Server_GPRC_MQ.runtimeconfig.json
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Server_GPRC_MQ.runtimeconfig.dev.json
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Server_GPRC_MQ.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Server_GPRC_MQ.pdb
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Google.Protobuf.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Grpc.AspNetCore.Server.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Grpc.AspNetCore.Server.ClientFactory.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Grpc.Core.Api.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Grpc.Net.Client.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Grpc.Net.ClientFactory.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Grpc.Net.Common.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Domain.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerAdministrativo.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerLogic.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerLogicInterface.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerRepository.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerRepositoryInterface.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerAdministrativo.pdb
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerLogicInterface.pdb
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerLogic.pdb
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Domain.pdb
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerRepository.pdb
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerRepositoryInterface.pdb
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/Server_GPRC_MQ.RazorTargetAssemblyInfo.cache
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/Server_GPRC_MQ.csproj.CopyComplete
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/staticwebassets/Server_GPRC_MQ.StaticWebAssets.Manifest.cache
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/staticwebassets/Server_GPRC_MQ.StaticWebAssets.xml
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/Server_GPRC_MQ.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/Server_GPRC_MQ.pdb
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/Server_GPRC_MQ.genruntimeconfig.cache
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerAdministrativo.deps.json
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerAdministrativo.runtimeconfig.json
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerAdministrativo.runtimeconfig.dev.json
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Server_GPRC_MQ.deps.json
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Server_GPRC_MQ.runtimeconfig.json
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Server_GPRC_MQ.runtimeconfig.dev.json
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Server_GPRC_MQ.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Server_GPRC_MQ.pdb
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Google.Protobuf.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Grpc.AspNetCore.Server.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Grpc.AspNetCore.Server.ClientFactory.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Grpc.Core.Api.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Grpc.Net.Client.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Grpc.Net.ClientFactory.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Grpc.Net.Common.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/RabbitMQ.Client.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/System.Threading.Channels.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerAdministrativo.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerLogic.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerLogicInterface.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerRepository.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerRepositoryInterface.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerAdministrativo.pdb
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerLogic.pdb
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerLogicInterface.pdb
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerRepository.pdb
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/bin/Debug/netcoreapp3.1/ServerRepositoryInterface.pdb
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/Server_GPRC_MQ.csprojAssemblyReference.cache
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/Server_GPRC_MQ.AssemblyInfoInputs.cache
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/Server_GPRC_MQ.AssemblyInfo.cs
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/Server_GPRC_MQ.csproj.CoreCompileInputs.cache
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/Server_GPRC_MQ.MvcApplicationPartsAssemblyInfo.cache
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/staticwebassets/Server_GPRC_MQ.StaticWebAssets.Manifest.cache
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/staticwebassets/Server_GPRC_MQ.StaticWebAssets.xml
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/scopedcss/bundle/Server_GPRC_MQ.styles.css
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/Server_GPRC_MQ.RazorTargetAssemblyInfo.cache
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/Server_GPRC_MQ.csproj.CopyComplete
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/Server_GPRC_MQ.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/Server_GPRC_MQ.pdb
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/Server_GPRC_MQ/obj/Debug/netcoreapp3.1/Server_GPRC_MQ.genruntimeconfig.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.csprojAssemblyReference.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.AssemblyInfoInputs.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.AssemblyInfo.cs
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.csproj.CoreCompileInputs.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Client.exe
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Server_GPRC_MQ.exe
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Server_GPRC_MQ.deps.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Server_GPRC_MQ.runtimeconfig.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Server_GPRC_MQ.runtimeconfig.dev.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Server_GPRC_MQ.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Server_GPRC_MQ.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Client.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ProtocolComunication.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerLogic.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerLogicInterface.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerRepository.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerRepositoryInterface.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerLogic.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerLogicInterface.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ProtocolComunication.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Client.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerRepository.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerRepositoryInterface.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.RazorTargetAssemblyInfo.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.csproj.CopyComplete
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\staticwebassets\Server_GPRC_MQ.StaticWebAssets.Manifest.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\staticwebassets\Server_GPRC_MQ.StaticWebAssets.xml
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.genruntimeconfig.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Client.exe
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Server_GPRC_MQ.exe
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Server_GPRC_MQ.deps.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Server_GPRC_MQ.runtimeconfig.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Server_GPRC_MQ.runtimeconfig.dev.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Server_GPRC_MQ.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Server_GPRC_MQ.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Client.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ProtocolComunication.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerLogic.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerLogicInterface.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerRepository.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerRepositoryInterface.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerLogic.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerLogicInterface.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ProtocolComunication.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Client.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerRepository.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerRepositoryInterface.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.csprojAssemblyReference.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.AssemblyInfoInputs.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.AssemblyInfo.cs
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.csproj.CoreCompileInputs.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.RazorTargetAssemblyInfo.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.csproj.CopyComplete
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\staticwebassets\Server_GPRC_MQ.StaticWebAssets.Manifest.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\staticwebassets\Server_GPRC_MQ.StaticWebAssets.xml
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.genruntimeconfig.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Client.exe
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\appsetting.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Server_GPRC_MQ.exe
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Server_GPRC_MQ.deps.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Server_GPRC_MQ.runtimeconfig.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Server_GPRC_MQ.runtimeconfig.dev.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Server_GPRC_MQ.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Server_GPRC_MQ.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Grpc.AspNetCore.Server.ClientFactory.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Grpc.Core.Api.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Grpc.Net.Client.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Grpc.Net.ClientFactory.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Grpc.Net.Common.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Client.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ProtocolComunication.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerLogic.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerLogicInterface.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerRepository.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerRepositoryInterface.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerLogic.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerLogicInterface.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ProtocolComunication.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\Client.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerRepository.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\bin\Debug\netcoreapp3.1\ServerRepositoryInterface.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.csprojAssemblyReference.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.AssemblyInfoInputs.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.AssemblyInfo.cs
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.csproj.CoreCompileInputs.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.RazorTargetAssemblyInfo.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.csproj.CopyComplete
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\staticwebassets\Server_GPRC_MQ.StaticWebAssets.Manifest.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\staticwebassets\Server_GPRC_MQ.StaticWebAssets.xml
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\Server_GPRC_MQ\obj\Debug\netcoreapp3.1\Server_GPRC_MQ.genruntimeconfig.cache

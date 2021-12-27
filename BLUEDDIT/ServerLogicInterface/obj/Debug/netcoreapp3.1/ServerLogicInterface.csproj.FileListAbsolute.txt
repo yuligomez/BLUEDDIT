@@ -1,0 +1,72 @@
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/bin/Debug/netcoreapp3.1/ServerLogicInterface.deps.json
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/bin/Debug/netcoreapp3.1/ServerLogicInterface.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/bin/Debug/netcoreapp3.1/ServerLogicInterface.pdb
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/bin/Debug/netcoreapp3.1/Domain.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/bin/Debug/netcoreapp3.1/Domain.pdb
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.csprojAssemblyReference.cache
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.AssemblyInfoInputs.cache
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.AssemblyInfo.cs
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.csproj.CoreCompileInputs.cache
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.csproj.CopyComplete
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.pdb
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/bin/Debug/netcoreapp3.1/ServerLogicInterface.deps.json
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/bin/Debug/netcoreapp3.1/ServerLogicInterface.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/bin/Debug/netcoreapp3.1/ServerLogicInterface.pdb
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/bin/Debug/netcoreapp3.1/Domain.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/bin/Debug/netcoreapp3.1/Domain.pdb
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.csprojAssemblyReference.cache
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.AssemblyInfoInputs.cache
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.AssemblyInfo.cs
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.csproj.CoreCompileInputs.cache
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.csproj.CopyComplete
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.pdb
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/ObligatorioFinal/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/bin/Debug/netcoreapp3.1/ServerLogicInterface.deps.json
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/ObligatorioFinal/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/bin/Debug/netcoreapp3.1/ServerLogicInterface.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/ObligatorioFinal/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/bin/Debug/netcoreapp3.1/ServerLogicInterface.pdb
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/ObligatorioFinal/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/bin/Debug/netcoreapp3.1/Domain.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/ObligatorioFinal/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/bin/Debug/netcoreapp3.1/Domain.pdb
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/ObligatorioFinal/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.csprojAssemblyReference.cache
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/ObligatorioFinal/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.AssemblyInfoInputs.cache
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/ObligatorioFinal/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.AssemblyInfo.cs
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/ObligatorioFinal/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.csproj.CoreCompileInputs.cache
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/ObligatorioFinal/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.csproj.CopyComplete
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/ObligatorioFinal/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/ObligatorioFinal/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.pdb
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/bin/Debug/netcoreapp3.1/ServerLogicInterface.deps.json
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/bin/Debug/netcoreapp3.1/ServerLogicInterface.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/bin/Debug/netcoreapp3.1/ServerLogicInterface.pdb
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.csprojAssemblyReference.cache
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.AssemblyInfoInputs.cache
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.AssemblyInfo.cs
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.csproj.CoreCompileInputs.cache
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.csproj.CopyComplete
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/ServerLogicInterface/obj/Debug/netcoreapp3.1/ServerLogicInterface.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\bin\Debug\netcoreapp3.1\ServerLogicInterface.deps.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\bin\Debug\netcoreapp3.1\ServerLogicInterface.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\bin\Debug\netcoreapp3.1\ServerLogicInterface.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\obj\Debug\netcoreapp3.1\ServerLogicInterface.csprojAssemblyReference.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\obj\Debug\netcoreapp3.1\ServerLogicInterface.AssemblyInfoInputs.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\obj\Debug\netcoreapp3.1\ServerLogicInterface.AssemblyInfo.cs
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\obj\Debug\netcoreapp3.1\ServerLogicInterface.csproj.CoreCompileInputs.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\obj\Debug\netcoreapp3.1\ServerLogicInterface.csproj.CopyComplete
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\obj\Debug\netcoreapp3.1\ServerLogicInterface.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\obj\Debug\netcoreapp3.1\ServerLogicInterface.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\bin\Debug\netcoreapp3.1\ServerLogicInterface.deps.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\bin\Debug\netcoreapp3.1\ServerLogicInterface.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\bin\Debug\netcoreapp3.1\ServerLogicInterface.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\obj\Debug\netcoreapp3.1\ServerLogicInterface.csprojAssemblyReference.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\obj\Debug\netcoreapp3.1\ServerLogicInterface.AssemblyInfoInputs.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\obj\Debug\netcoreapp3.1\ServerLogicInterface.AssemblyInfo.cs
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\obj\Debug\netcoreapp3.1\ServerLogicInterface.csproj.CoreCompileInputs.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\obj\Debug\netcoreapp3.1\ServerLogicInterface.csproj.CopyComplete
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\obj\Debug\netcoreapp3.1\ServerLogicInterface.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\Obli\Kinosian-Gomez\BLUEDDIT\ServerLogicInterface\obj\Debug\netcoreapp3.1\ServerLogicInterface.pdb

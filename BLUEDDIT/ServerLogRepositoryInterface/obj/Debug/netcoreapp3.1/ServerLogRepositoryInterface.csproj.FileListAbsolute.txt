@@ -1,0 +1,59 @@
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/bin/Debug/netcoreapp3.1/ServerLogRepositoryInterface.deps.json
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/bin/Debug/netcoreapp3.1/ServerLogRepositoryInterface.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/bin/Debug/netcoreapp3.1/ServerLogRepositoryInterface.pdb
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/bin/Debug/netcoreapp3.1/Domain.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/bin/Debug/netcoreapp3.1/Domain.pdb
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/obj/Debug/netcoreapp3.1/ServerLogRepositoryInterface.csprojAssemblyReference.cache
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/obj/Debug/netcoreapp3.1/ServerLogRepositoryInterface.AssemblyInfoInputs.cache
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/obj/Debug/netcoreapp3.1/ServerLogRepositoryInterface.AssemblyInfo.cs
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/obj/Debug/netcoreapp3.1/ServerLogRepositoryInterface.csproj.CoreCompileInputs.cache
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/obj/Debug/netcoreapp3.1/ServerLogRepositoryInterface.csproj.CopyComplete
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/obj/Debug/netcoreapp3.1/ServerLogRepositoryInterface.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/obj/Debug/netcoreapp3.1/ServerLogRepositoryInterface.pdb
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/bin/Debug/netcoreapp3.1/ServerLogRepositoryInterface.deps.json
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/bin/Debug/netcoreapp3.1/ServerLogRepositoryInterface.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/bin/Debug/netcoreapp3.1/ServerLogRepositoryInterface.pdb
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/bin/Debug/netcoreapp3.1/Domain.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/bin/Debug/netcoreapp3.1/Domain.pdb
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/obj/Debug/netcoreapp3.1/ServerLogRepositoryInterface.csprojAssemblyReference.cache
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/obj/Debug/netcoreapp3.1/ServerLogRepositoryInterface.AssemblyInfoInputs.cache
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/obj/Debug/netcoreapp3.1/ServerLogRepositoryInterface.AssemblyInfo.cs
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/obj/Debug/netcoreapp3.1/ServerLogRepositoryInterface.csproj.CoreCompileInputs.cache
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/obj/Debug/netcoreapp3.1/ServerLogRepositoryInterface.csproj.CopyComplete
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/obj/Debug/netcoreapp3.1/ServerLogRepositoryInterface.dll
+C:/Users/Jorma/Desktop/ORT/Programación de Redes/Obligatorio3/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/obj/Debug/netcoreapp3.1/ServerLogRepositoryInterface.pdb
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/bin/Debug/netcoreapp3.1/ServerLogRepositoryInterface.deps.json
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/bin/Debug/netcoreapp3.1/ServerLogRepositoryInterface.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/bin/Debug/netcoreapp3.1/ServerLogRepositoryInterface.pdb
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/bin/Debug/netcoreapp3.1/Domain.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/bin/Debug/netcoreapp3.1/Domain.pdb
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/obj/Debug/netcoreapp3.1/ServerLogRepositoryInterface.AssemblyInfoInputs.cache
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/obj/Debug/netcoreapp3.1/ServerLogRepositoryInterface.AssemblyInfo.cs
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/obj/Debug/netcoreapp3.1/ServerLogRepositoryInterface.csproj.CoreCompileInputs.cache
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/obj/Debug/netcoreapp3.1/ServerLogRepositoryInterface.csproj.CopyComplete
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/obj/Debug/netcoreapp3.1/ServerLogRepositoryInterface.dll
+/Users/yulianagomez/Documents/proyectos/ProgramacionDeRedes/Kinosian-Gomez/BLUEDDIT/ServerLogRepositoryInterface/obj/Debug/netcoreapp3.1/ServerLogRepositoryInterface.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\bin\Debug\netcoreapp3.1\ServerLogRepositoryInterface.deps.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\bin\Debug\netcoreapp3.1\ServerLogRepositoryInterface.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\bin\Debug\netcoreapp3.1\ServerLogRepositoryInterface.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\obj\Debug\netcoreapp3.1\ServerLogRepositoryInterface.csprojAssemblyReference.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\obj\Debug\netcoreapp3.1\ServerLogRepositoryInterface.AssemblyInfoInputs.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\obj\Debug\netcoreapp3.1\ServerLogRepositoryInterface.AssemblyInfo.cs
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\obj\Debug\netcoreapp3.1\ServerLogRepositoryInterface.csproj.CoreCompileInputs.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\obj\Debug\netcoreapp3.1\ServerLogRepositoryInterface.csproj.CopyComplete
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\obj\Debug\netcoreapp3.1\ServerLogRepositoryInterface.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\obj\Debug\netcoreapp3.1\ServerLogRepositoryInterface.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\bin\Debug\netcoreapp3.1\ServerLogRepositoryInterface.deps.json
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\bin\Debug\netcoreapp3.1\ServerLogRepositoryInterface.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\bin\Debug\netcoreapp3.1\ServerLogRepositoryInterface.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\obj\Debug\netcoreapp3.1\ServerLogRepositoryInterface.csprojAssemblyReference.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\obj\Debug\netcoreapp3.1\ServerLogRepositoryInterface.AssemblyInfoInputs.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\obj\Debug\netcoreapp3.1\ServerLogRepositoryInterface.AssemblyInfo.cs
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\obj\Debug\netcoreapp3.1\ServerLogRepositoryInterface.csproj.CoreCompileInputs.cache
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\obj\Debug\netcoreapp3.1\ServerLogRepositoryInterface.csproj.CopyComplete
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\obj\Debug\netcoreapp3.1\ServerLogRepositoryInterface.dll
+C:\Users\Jorma\Desktop\ORT\Programación de Redes\ObligatorioFinalFinal\Kinosian-Gomez\BLUEDDIT\ServerLogRepositoryInterface\obj\Debug\netcoreapp3.1\ServerLogRepositoryInterface.pdb

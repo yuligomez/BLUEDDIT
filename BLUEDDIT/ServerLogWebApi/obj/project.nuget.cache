@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "21sEtXyzXYjau2w+TXTOcMoGkzX4pZjJ6Kg5gLT8NckCUxpceGgwWSnuleL+iSAkH1YZTBO9H9E6+PABsCiQag==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Jorma\\Desktop\\ORT\\Programación de Redes\\Obli\\Kinosian-Gomez\\BLUEDDIT\\ServerLogWebApi\\ServerLogWebApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Jorma\\.nuget\\packages\\rabbitmq.client\\6.2.1\\rabbitmq.client.6.2.1.nupkg.sha512",
+    "C:\\Users\\Jorma\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\Jorma\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}

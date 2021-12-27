@@ -1,0 +1,86 @@
+syntax = "proto3";
+
+option csharp_namespace = "Server_GPRC_MQ";
+
+package greet;
+
+service Greeter {
+  // Sends a greeting
+  rpc SayHello (HelloRequest) returns (HelloReply);
+  rpc AddTheme (AddThemeRequest) returns (CommonReply);
+  rpc ModifyTheme (ModifyThemeRequest) returns (CommonReply);
+  rpc DeleteTheme (DeleteThemeRequest) returns (CommonReply);
+  rpc AddPost (AddPostRequest) returns (CommonReply);
+  rpc ModifyPost (ModifyPostRequest) returns (CommonReply);
+  rpc DeletePost (DeletePostRequest) returns (CommonReply);
+  rpc AssociatePostToTheme (AssociatePostToThemeRequest) returns (CommonReply);
+  rpc DessassociatePostToTheme (DessassociatePostToThemeRequest) returns (CommonReply);
+}
+
+message Theme {
+ string name = 1;
+ string description = 2;
+}
+
+message Post {
+ string name = 1;
+}
+
+// The request message containing the user's name.
+message HelloRequest {
+  string name = 1;
+}
+
+// The response message containing the greetings.
+message HelloReply {
+  string message = 1;
+}
+
+message AddThemeRequest {
+    Theme theme = 1;
+    string username = 2;
+}
+
+message ModifyThemeRequest {
+    Theme newTheme = 1;
+    string oldName = 2;
+    string username = 3;
+}
+
+message DeleteThemeRequest {
+    string name = 1;
+    string username = 2;
+}
+
+message AddPostRequest {
+    Post post = 1;
+    string themeName = 2;
+    string username = 3;
+}
+
+message ModifyPostRequest {
+    Post newPost = 1;
+    string oldName = 2;
+    string username = 3;
+}
+
+message DeletePostRequest {
+    string name = 1;
+    string username = 2;
+}
+
+message AssociatePostToThemeRequest {
+    string postName = 1;
+    string themeName = 2;
+    string username = 3;
+}
+
+message DessassociatePostToThemeRequest {
+    string postName = 1;
+    string themeName = 2;
+    string username = 3;
+}
+
+message CommonReply {
+    string message = 1;
+}
